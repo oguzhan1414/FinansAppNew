@@ -1,61 +1,34 @@
 # FinansAppNew
 
-## Overview
-FinansAppNew is a comprehensive finance management application designed to help users track their expenses, manage budgets, and analyze spending patterns.
+## Proje Amacı
+FinansAppNew, kira, fatura ve mali yükümlülüklerinizi takip etmenize yardımcı olan bir uygulamadır. Kullanıcıların finansal sorumluluklarını zamanında yerine getirmelerini sağlamak için ödeme hatırlatıcıları sunar.
 
-## Features
-- User authentication and registration
-- Real-time expense tracking
-- Visual budget allocation
-- Spending categorization
-- Financial reports and analytics
+## Teknoloji Yığını
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+- ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+## Uygulama Özellikleri
+- Kullanıcı dostu arayüz
+- Kira, fatura ve mali yükümlülükler için hatırlatmalar
+- Ödeme geçmişi takibi
+- Grafiksel finansal analizler
+- Bildirim ayarları
 
+## Kullanım Kılavuzu
+1. Uygulamayı indirin ve kurun.
+2. Hesap oluşturun veya mevcut bir hesaba giriş yapın.
+3. Ödeme hatırlatıcılarınızı ayarlayın.
+4. Geçmiş ödemelerinizi takip edin.
 
-![1](https://github.com/user-attachments/assets/f8e01db7-aa58-4494-8f1e-f14d9fad3960)
+## Kurulum Talimatları
+- `git clone https://github.com/oguzhan1414/FinansAppNew.git`
+- `cd FinansAppNew`
+- `npm install`
+- `npm start`
 
-
-
-
-![5](https://github.com/user-attachments/assets/58ef3208-9ef4-49d0-accc-5b585239ab2d)
-![4](https://github.com/user-attachments/assets/706cfc44-dc41-4404-aa78-1fc963420981)
-![3](https://github.com/user-attachments/assets/15da2f13-b479-4492-89c3-2492bf4d68f0)
-![2](https://github.com/user-attachments/assets/d3f909c5-da60-486b-84b9-f7b192c008f3)
-
-
-
-
-
-
-## Technologies Used
-- Frontend: React.js
-- Backend: Node.js with Express
-- Database: MongoDB
-
-## Installation Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/oguzhan1414/FinansAppNew.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd FinansAppNew
-   ```
-3. Install the dependencies:
-   ```bash
-   npm install
-   ```
-4. Run the application:
-   ```bash
-   npm start
-   ```
-
-## Usage
-- Create an account and log in.
-- Start adding your expenses and budgets.
-
-## Contributing
-- Contributions are welcome! Please submit a Pull Request.
-
-## License
-This project is licensed under the MIT License.
+## Ekran Görüntüleri
+![Baseline](screenshot1.png)
+![Dashboard](screenshot2.png)
+![Notifications](screenshot3.png)
